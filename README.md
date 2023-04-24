@@ -1,8 +1,9 @@
 # Simple-personal-site
-Mussica-Drumkit Project
+
 This is a simple Personal site built using HTML and CSS.
 
 How to use
+
 Clone the repository to your local machine
 Open the index.html file in your web browser
 
